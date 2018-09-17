@@ -1,0 +1,47 @@
+_repo: The-Lower-Depths-A-Drama-in-Four-Acts_52468
+_version: 0.0.1
+alternative_title: Na dne. English
+contributor:
+  translator:
+    agent_name: Covan, Jenny
+    alias: Covan, Jennie
+    gutenberg_agent_id: '46872'
+    url: http://www.gutenberg.org/2009/agents/46872
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Gorky, Maxim
+    - Gorky, Maxime
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+  editor:
+    agent_name: Sayler, Oliver M.
+    alias: Sayler, Oliver Martin
+    birthdate: 1887
+    deathdate: 1958
+    gutenberg_agent_id: '46871'
+    url: http://www.gutenberg.org/2009/agents/46871
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Drama'
+- !lcsh 'Poverty -- Moral and ethical aspects -- Drama'
+- !lcsh 'Russian drama -- Translations into English'
+- !lcsh 'Poverty -- Russia -- Drama'
+- GITenberg
+title: 'The Lower Depths: A Drama in Four Acts'
+url: http://www.gutenberg.org/ebooks/52468
