@@ -1,5 +1,5 @@
 _repo: The-Lower-Depths-A-Drama-in-Four-Acts_52468
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Na dne. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Covan, Jennie
     gutenberg_agent_id: '46872'
     url: http://www.gutenberg.org/2009/agents/46872
+covers:
+- cover_type: archival
+  image_path: 52468-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '46871'
     url: http://www.gutenberg.org/2009/agents/46871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52468#The-Lower-Depths-A-Drama-in-Four-Acts
 gutenberg_issued: '2016-07-01'
 gutenberg_type: Text
 identifiers:
